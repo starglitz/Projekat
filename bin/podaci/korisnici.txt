@@ -1,0 +1,6 @@
+100001|administrator|Petar|Petrovic|MUSKI|Cara Lazara 10|065 555 555|PetarP|perapera|1234567891234|100000|false
+100002|musterija|Danijel|Masic|MUSKI|Marka Miljanova 18|066 555 999|Maske|danijel123|1234567890987|5|true
+100003|musterija|Lazar|Lazarevic|MUSKI|Bulevar Oslobodjenja 30|063 333 333|LAZA|54321|9999999999999|4|true
+100004|musterija|Dejan|Dejanovic|MUSKI|Dobrinacka 76|065 456 654|dekideki|jasamdejan|1413312364345|5|false
+100005|serviser|Milan|Milanovic|MUSKI|Marka Miljanova 18|065 066 042|serviser123|123456|9684937281958|45000|AUTOELEKTRICAR|false
+100006|serviser|DusanNovi|Dusanovic|MUSKI|Gavrila Principa 77|063 543 789|Dule|dusan123|6565656565656|45000|VULKANIZER|false

@@ -1,0 +1,7 @@
+000233|FIAT|S8|prozori|1400|false
+003422|TOYOTA|X6|motor|20000|false
+000211|AUDI|Q5|vrata - Leva strana|14000|false
+118850|AUDI|Q5|vrata - Desna strana|14000|false
+010001|TOYOTA|X6|retrovizor - Leva strana|2500|false
+010203|FIAT|S8|auspuh|6000|false
+020406|TESLA|Q5|motor|40000|false
